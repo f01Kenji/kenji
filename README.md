@@ -1,1 +1,1 @@
-# ativ_2_2C_Richard_
+# ativ_2_2C_kenji
