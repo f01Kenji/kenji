@@ -1,0 +1,93 @@
+@media screen and (max-width: 695px) {
+
+    body{
+
+        background-color: rgb(157, 106, 190);
+
+    }
+
+   .part1 {
+
+        color: rgb(9, 124, 255);
+        text-align: center;
+        font-size: 40px;
+
+    }
+
+    .part2 {
+
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 30px;
+
+    }
+}
+
+@media screen and (min-width: 695px) {
+
+    body{
+
+        background-color: rgb(255, 255, 255);
+
+    }
+
+    .part1 {
+
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 50px;
+
+    }
+
+    .part2 {
+
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 45px;
+
+    }
+}
+
+@media screen and (min-width: 1008px) {
+
+    body{
+
+        background-color: rgb(64, 66, 75);
+
+    }
+
+    .part1 {
+
+        color: rgb(0, 0, 0);
+        text-align: center;
+        font-size: 60px;
+
+        border-color: rgb(247, 248, 255);
+        border-width: 8px;
+        border-style: inset;
+        border-radius: 5%;
+        margin-inline: 35%;
+        padding-block: 5%;
+    }
+
+    .part2 {
+
+        color: rgb(0, 0, 0);
+        text-align: center;
+        font-size: 55px;
+
+        border-color: rgb(9, 124, 255);
+        border-width: 8px;
+        border-style: inset;
+        border-radius: 5%;
+        margin-inline: 25%;
+        padding-block: 2%;
+    }
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
